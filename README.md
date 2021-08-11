@@ -39,5 +39,9 @@
 <img src="./Images/callInfoSchema.png">
 
 <hr>
+<h4>Data record in the "call_info" table after API calls</h4>
+<img src="./Images/call_infoDB.png">
+
+<hr>
 <h4>I also created a CallController for handling this HTTP Post request, which is executed every time an API is called. We can also call this endpoint directly from Postman as shown by following example</h4>
 <img src="./Images/addAPICallInfo.png">
