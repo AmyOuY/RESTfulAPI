@@ -39,7 +39,7 @@
 <img src="./Images/callInfoSchema.png">
 
 <hr>
-<h4>Data record in the "call_info" table after API calls</h4>
+<h4>Data recorded in the "call_info" table after API call</h4>
 <img src="./Images/call_infoDB.png">
 
 <hr>
