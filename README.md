@@ -12,9 +12,9 @@
 <img src="./Images/memoryInfoSchema.png">
 
 <hr>
-<h4>HTTP Get request for all worker data results in the following result</h4>
+<h4>HTTP Get request for all worker data produces the following result</h4>
 <img src="./Images/allMemoryUsageInfo_2.png">
-<h4>HTTP Get request for specific worker data results in the following result</h4>
+<h4>HTTP Get request for specific worker data produces the following result</h4>
 <img src="./Images/memoryUsageInfo1.png">
 <img src="./Images/memoryUsageInfo2.png">
 
