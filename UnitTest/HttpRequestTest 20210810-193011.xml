@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HttpRequestTest" project="RESTfulAPI" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.demo.restfulAPI.HttpRequestTest" time="1.389" displayname="HttpRequestTest" uniqueid="[engine:junit-jupiter]/[class:com.demo.restfulAPI.HttpRequestTest]">
+    <testcase name="getAllMemoryUsageInfoTest" classname="com.demo.restfulAPI.HttpRequestTest" time="0.831" displayname="getAllMemoryUsageInfoTest()" uniqueid="[engine:junit-jupiter]/[class:com.demo.restfulAPI.HttpRequestTest]/[method:getAllMemoryUsageInfoTest()]"/>
+    <testcase name="getMemoryInfoTest" classname="com.demo.restfulAPI.HttpRequestTest" time="0.556" displayname="getMemoryInfoTest()" uniqueid="[engine:junit-jupiter]/[class:com.demo.restfulAPI.HttpRequestTest]/[method:getMemoryInfoTest()]"/>
+  </testsuite>
+</testrun>
