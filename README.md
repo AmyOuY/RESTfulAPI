@@ -25,9 +25,10 @@
 
 <hr>
 <h3>Step 2: Write unit tests for above API calls using JUnit testing framework. The codes can be found at src/test/java/com/demo/restfulAPI/HttpRequestTest.java</h3>
+
+<hr>
 <h4>Folder UnitTest contains a test report in xml format</h4>
 <img src="./Images/testReport.png">
-
 
 <hr>
 <h3>Step 3: The SAVE2CSV function is in src/main/java/com/demo/restfulAPI/service/MemoryService.java and called by src/main/java/com/demo/restfulAPI/controller/MemoryController.java</h3>
