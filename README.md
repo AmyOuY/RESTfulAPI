@@ -13,20 +13,20 @@
 
 <hr>
 <h4>HTTP Get request for all worker data results in the following result</h4>
-<img src="./Images/allMemoryUsageInfo.png">
+<img src="./Images/allMemoryUsageInfo_2.png">
 <h4>HTTP Get request for specific worker data results in the following result</h4>
-<img src="./Images/memoryUsageInfo_1.png">
-<img src="./Images/memoryUsageInfo_2.png">
+<img src="./Images/memoryUsageInfo1.png">
+<img src="./Images/memoryUsageInfo2.png">
 
 <hr>
 <h4>Error messages will show up if calling the wrong url or calling a non-existent worker</h4>
-<img src="./Images/error_2.png">
-<img src="./Images/error_1.png">
+<img src="./Images/error2.png">
+<img src="./Images/error1.png">
 
 <hr>
 <h3>Step 2: Write unit tests for above API calls using JUnit testing framework. The codes can be found at src/test/java/com/demo/restfulAPI/HttpRequestTest.java</h3>
 <h4>Folder UnitTest contains a test report in xml format</h4>
-<img src="./Images/unitTestReport.png">
+<img src="./Images/testReport.png">
 
 
 <hr>
