@@ -2,7 +2,7 @@
 
 <ul>
 <li>The RESTful APIs are written in Java Spring Boot framework, using Model–view–controller (MVC) design pattern and Dependency Injection</li>
-<li>The APIs use layered architecture to handle HTTP requests. <strong>repository</strong> layer contains data access functionality, <strong>service</strong> layer deals with application logic and <strong>controller</strong> layer processes RESTful API requests and controls data flow into model object layer</li>
+<li>The APIs use layered architecture to handle HTTP requests. <strong>repository</strong> layer contains data access functionality, <strong>service</strong> layer deals with application logic and <strong>controller</strong> layer processes RESTful API requests and controls data flow into model object</li>
 <li>Data is stored in MySQL (database configuration can be found at src/main/resources/application.properties) and accessed through Spring Data JPA</li>
 </ul>
 
