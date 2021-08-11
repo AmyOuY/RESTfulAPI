@@ -34,7 +34,7 @@
 <h3>Step 3: The SAVE2CSV function is in src/main/java/com/demo/restfulAPI/service/MemoryService.java and called by src/main/java/com/demo/restfulAPI/controller/MemoryController.java</h3>
 
 <hr>
-<3>Step 4: Record actions and result to the "call_info" table in MySQL "restfulAPI" database</h3>
+<h3>Step 4: Record actions and result to the "call_info" table in MySQL "restfulAPI" database</h3>
 <h4> MySQL folder contains schema for the "call_info" table</h4>
 <img src="./Images/callInfoSchema.png">
 
